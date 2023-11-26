@@ -8,5 +8,5 @@ Features:<br><br>
 2. Uses Retrofit<br><br>
 
 <img src="https://github.com/shalenMathew/Quick_Read-News_App-/blob/master/pics/a.png" alt="Splash_Screen" width="270" height="500">
-<img src="https://github.com/shalenMathew/Quick_Read-News_App-/blob/master/pics/b.png" alt="main" width="270" height="500">
+<img src="https://github.com/shalenMathew/Quick_Read-News_App-/blob/master/pics/bc.png" alt="main" width="270" height="500">
 <img src="https://github.com/shalenMathew/Quick_Read-News_App-/blob/master/pics/c.png" alt="starr" width="270" height="500">
