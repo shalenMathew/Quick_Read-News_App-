@@ -1,1 +1,1 @@
-# Quick_Read-News_App
+# Quick Read-News App
